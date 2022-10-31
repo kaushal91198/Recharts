@@ -1,4 +1,4 @@
-# mern-ecommerce
+# mern-recharts
 
 > Frontend-> React JS
 
